@@ -1,6 +1,6 @@
 module uop_nxor(output wire Y, input wire A, input wire B);
 
-//Internal wires
+//Internal wires.
 wire Ainv;
 wire Binv;
 wire term0;
